@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.makeschool.com">
+  <a href="https://www.one.kz">
       <img alt="Make School Logo" src="./Web/logo-icononly.svg" height="110">
   </a>
 </p>
